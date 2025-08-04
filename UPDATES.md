@@ -8,4 +8,4 @@ ___
 ___
 ## Future Updates (planned) - V. 0.0.2:
 
-* Developed Hodgkin Huxley model
+* Developed early stage Hodgkin Huxley model
