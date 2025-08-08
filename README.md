@@ -2,6 +2,8 @@
 
 *A Biophysically‑Grounded Simulator of Speech‑Motor Control and Oromotor Asymmetry*
 
+> # DISCLAIMER: Code has not been uploaded. Expected upload date: TBD
+
 ## Purpose
 
 NeuroOAS links high‑level cortical speech planning to low‑level facial kinematics.  It combines
